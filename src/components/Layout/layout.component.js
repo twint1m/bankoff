@@ -9,6 +9,7 @@ export class Layout {
 		<header>
 		header
 			<nav>
+				<a href="/">home</a>
 				<a href="/about">about</a>
 				<a href="/404">404</a>
 			</nav>
